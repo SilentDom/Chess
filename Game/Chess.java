@@ -17,5 +17,7 @@ public class Chess {
         window.setLocationRelativeTo(null);
         window.setVisible(true);
 
+        board.launchGame();
+
     }
 }
